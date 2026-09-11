@@ -16,3 +16,6 @@ while sandwich_orders:
     finished_sandwiches.append(current_sandwich)
 
 print("\nFinished sandwiches:")
+
+for sandwich in finished_sandwiches:
+    print(f"I made a {sandwich} sandwich.")
