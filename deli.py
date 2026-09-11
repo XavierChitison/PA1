@@ -7,3 +7,5 @@ sandwich_orders = [
     "chicken",
     "roast beef"
 ]
+
+finished_sandwiches = []
